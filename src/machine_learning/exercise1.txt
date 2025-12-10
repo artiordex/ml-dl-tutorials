@@ -1,0 +1,4 @@
+#1. sklearn의 load_breast_cancer, load_digits, load_wine을 pytorch로 classification하고 score를 측정한다.
+#2. fetch_covtype을 pytorch로 classification하고 score를 측정한다.
+(classification)
+#3. seaborn의 diamonds, tips, penguins 데이터셋에 대해 pytorch로 학습시키고 score를 측정한다.
